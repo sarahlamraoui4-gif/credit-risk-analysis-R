@@ -18,3 +18,5 @@ High liquidity reduces average default amount by €256
 vs €543 in naïve OLS, a 53% reduction in estimated effect 
 after controlling for confounders.
 
+### Files
+- `credit risk analysis.pdf` : full methodology and results
