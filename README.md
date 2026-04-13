@@ -1,5 +1,5 @@
 # credit-risk-analysis-R
-## Credit Risk Analysis — Loan Default Study
+## Credit Risk Analysis with Loan Default Study
 
 **Tools:** R · Propensity Score Matching (MatchIt) · OLS regression  
 **Dataset:** 2,000 borrowers  
@@ -15,9 +15,6 @@ controlling for selection bias.
 
 ### Key finding
 High liquidity reduces average default amount by €256 
-vs €543 in naïve OLS — a 53% reduction in estimated effect 
+vs €543 in naïve OLS, a 53% reduction in estimated effect 
 after controlling for confounders.
 
-### Files
-- `credit_risk_analysis.R` — main script
-- `report.pdf` — full methodology and results
