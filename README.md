@@ -1,7 +1,7 @@
 # credit-risk-analysis-R
 ## Credit Risk Analysis with Loan Default Study
 
-**Tools:** R · Propensity Score Matching (MatchIt) · OLS regression  
+**Tools:** R, Propensity Score Matching (MatchIt), OLS regression  
 **Dataset:** 2,000 borrowers  
 
 ### Objective
